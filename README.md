@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=anmolm07r&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolm07"/>|<br>
+<img src="https://github-readme-stats.vercel.app/api?username=anmolm07&show_icons=true&count_private=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolm07"/>|<br>
 <img alt="Anmol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anmolm07&show_icons=true&count_private=true&theme=tokyonight" />
 
 ### Reach Out to me on:
