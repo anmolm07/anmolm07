@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ### Reach Out to me on:
 [<img align="left" alt="Anmol | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anmol-mittal-47338a1b3/)
+<img src="https://github-readme-stats.vercel.app/api?username=mrpkdeveloper&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolm07"/>|
