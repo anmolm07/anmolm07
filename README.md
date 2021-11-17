@@ -2,7 +2,7 @@
 [<img src="https://komarev.com/ghpvc/?username=anmolm07&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/anmolm07) <br>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right"  width="45%"/>
 
-Here are some ideas to get you started:
+Something About Myself:
 
 - 🔭 I’m currently working on a Web Dev Project
 - 🌱 I’m currently learning more about Next JS
